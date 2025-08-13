@@ -113,7 +113,7 @@ function App() {
     <div className={`app ${getBackgroundClass()}`}>
       <div className="container">
         <header className="app-header">
-          <h1 className="app-title">Weather App</h1>
+          <h1 className="app-title">skyCast App</h1>
           <div className="header-controls">
             <button 
               className="unit-toggle"
